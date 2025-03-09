@@ -66,4 +66,4 @@ Contribuições são bem-vindas! Caso tenha sugestões de melhorias, abra uma *i
 
 ---
 
-📌 Desenvolvido por **[Francisco Goya]** como parte de um desafio técnico para entrevista de emprego.
+📌 Desenvolvido por **[Francisco Goya](https://github.com/FranciscoGoyaAMC)** como parte de um desafio técnico para entrevista de emprego.
